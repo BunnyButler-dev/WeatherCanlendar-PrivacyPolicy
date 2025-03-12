@@ -72,7 +72,7 @@ If you need to report or consult regarding personal information infringement, pl
 - **Supreme Prosecutors’ Office Cyber Crime Investigation**: 1301  
 - **Korea National Police Agency Cyber Bureau**: 182  
 
-**Effective Date**: March 16, 2024
+**Effective Date**: March 12, 2025
 
 ---
 
@@ -141,7 +141,7 @@ If you need to report or consult regarding personal information infringement, pl
 - **連絡先**：bunnies.dev@gmail.com  
 
 ## 施行日
-2024年3月16日
+2025年3月12日
 
 ---
 
@@ -222,4 +222,4 @@ If you need to report or consult regarding personal information infringement, pl
 - **대검찰청 사이버수사과**: ☎ 1301  
 - **경찰청 사이버안전국**: ☎ 182  
 
-**시행일**: 2024년 3월 16일
+**시행일**: 2025년 3월 12일
